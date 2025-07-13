@@ -1,0 +1,21 @@
+{
+  "name": "semantic-analyzer",
+  "version": "1.0.0",
+  "description": "This project implements a basic semantic analyzer for a simple programming language using JavaScript.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinsonur/semantic-analyzer-js.git"
+  },
+  "author": "Robinson U. Rodríguez",
+  "license": "UNLICENSED",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/robinsonur/semantic-analyzer-js/issues"
+  },
+  "homepage": "https://github.com/robinsonur/semantic-analyzer-js#readme"
+}
